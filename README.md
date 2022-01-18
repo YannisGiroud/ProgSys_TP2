@@ -1,1 +1,1 @@
-# ProgSys_TP2
+# ProgSys_TP2_Giroud_Yannis
